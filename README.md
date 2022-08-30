@@ -6,6 +6,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [email](mailto:olxandrandrichuk@gmail.com), [telegram](https://t.me/Dru1DD), [facebook](https://www.facebook.com/profile.php?id=100012271021005)
 - ⚡ Fun fact: I study at a technical school for mechatronics, and then in the evening I study programming and product management😅
+
 [![Dru1DD's GitHub stats](https://github-readme-stats.vercel.app/api?username=dru1dd)](https://github.com/dru1dd/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dru1dd&layout=compact)](https://github.com/dru1dd/github-readme-stats) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dru1dd)](https://git.io/streak-stats)
