@@ -1,4 +1,4 @@
-# #Hi there, I'm [Oleksandr](https://react-portfolio-753aa.web.app/) 💫
+#Hi there, I'm [Oleksandr](https://react-portfolio-753aa.web.app/) 💫
 ### Junior React / React Native Developer & Junior Product Manadger
 
 - 🔭 I’m currently working on interesting project
