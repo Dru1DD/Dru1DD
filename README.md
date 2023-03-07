@@ -11,7 +11,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dru1dd)](https://git.io/streak-stats)
 
-![Dru1DD's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dru1DD)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dru1dd)](https://github.com/ryo-ma/github-profile-trophy)
 
