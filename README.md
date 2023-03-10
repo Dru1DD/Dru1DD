@@ -1,5 +1,5 @@
 # Hi there, I'm [Oleksandr](https://react-portfolio-753aa.web.app/) 💫
-### Junior React / React Native Developer & Junior Product Manadger
+### React / React Native Developer & Startup Entrepreneur
 
 - 🔭 I’m currently working on interesting project
 - 🌱 I’m currently learning Next Js 
