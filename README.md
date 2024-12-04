@@ -1,5 +1,5 @@
 # Hi there, I'm [Oleksandr](https://react-portfolio-753aa.web.app/) 💫
-### React / React Native Developer & Startup Entrepreneur
+### Full-Stack Developer
 
 - 🔭 Startup Enthusiast / Degen
 - 🌱 Love experiments
