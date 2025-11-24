@@ -1,8 +1,7 @@
-# Hi there, I'm [Oleksandr](https://react-portfolio-753aa.web.app/) 💫
-### Full-Stack Developer
-
+# GM, Dru1DD is here 💻
+### I'm Full-Stack Developer
 - 🔭 Startup Enthusiast / Degen
-- 🌱 Love experiments
+- 📈 Working in Web3 Industry
 - 💬 Ask me about anything
 - 📫 How to reach me: [email](mailto:olxandrandrichuk@gmail.com), [telegram](https://t.me/Dru1DD), [facebook](https://www.facebook.com/profile.php?id=100012271021005)
 
